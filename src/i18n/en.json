@@ -1,0 +1,10 @@
+{
+  "bar-title": "Movies",
+  "head-name": "Name",
+  "head-directedby": "Directed By",
+  "head-country": "Country",
+  "head-budget": "Budget",
+  "head-release": "Release",
+  "head-views": "Views",
+  "detail-cast": "Cast"
+}
