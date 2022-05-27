@@ -1,10 +1,6 @@
 {
-  "bar-title": "Peliculas",
-  "head-name": "Nombre",
-  "head-directedby": "Dirigido Por",
-  "head-country": "Pais",
-  "head-budget": "Presupuesto",
-  "head-release": "Estreno",
-  "head-views": "Vistas",
-  "detail-cast": "Elenco"
+  "houses-title": "Mis espacios",
+  "rooms-title": "Mis cuartos",
+  "dev-table-device": "Dispositivo",
+  "dev-table-value": "Valor"
 }
